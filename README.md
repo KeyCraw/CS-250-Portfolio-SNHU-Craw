@@ -1,6 +1,6 @@
 # CS-250-Portfolio-SNHU-Craw
 
-Welcome to my CS 250 portfolio! This repository contains my coursework and projects from the CS 250 Java Programming class.
+Welcome to my CS 250 portfolio! This repository contains my coursework and projects from the CS 250 Software Developement Lifecycle class.
 
 ## About This Course
 CS 250 focuses on Java programming fundamentals, software development concepts, and Agile methodologies, including Scrum. Throughout the course, I have completed coding assignments, lab exercises, and written papers on Agile project management and Scrum practices.
@@ -15,7 +15,7 @@ Explore the folders to view my Java code and Agile project documentation. Each a
 
 ---
 
-*This portfolio represents my progress and learning in CS 250 — Java programming and Agile project management.*
+*This portfolio represents my progress and learning in CS 250: Software Developement Lifecyle.*
 
 
 
